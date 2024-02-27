@@ -27,4 +27,5 @@ objektorientētās programmēšanas teorijas, rezultātā iegūstot virtuālo ob
 **5.**
 **Answer:** Eloquent ORM pieprasījums modelim "User", kur nepieciešams iegūt visus lietotājus kuriem vērtējums(reitings) ir lielāks par "4" ir:
 $lietotaji = lietotajs::where('vertejums', '>', 4)-get();
+
 **$lietotaji = User::where('rating', '>', 4)-get();**
