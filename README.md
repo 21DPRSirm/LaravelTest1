@@ -1,4 +1,5 @@
 # Teorija
+**This is bold text**
 1. 
 Question: Kas ir API ?
 Answer: API nozīmē "Application Programming Interface"
